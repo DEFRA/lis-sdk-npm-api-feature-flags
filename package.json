@@ -34,7 +34,7 @@
     "@hapi/wreck": "18.1.3"
   },
   "devDependencies": {
-    "@defra/lis-infra-eslint-config": "^0.14.0",
+    "@defra/lis-infra-eslint-config": "^0.14.2",
     "@types/node": "^26.6.6",
     "@vitest/coverage-istanbul": "^5.1.1",
     "audit-ci": "^7.1.0",
